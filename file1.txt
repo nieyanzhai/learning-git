@@ -1,3 +1,6 @@
 this is file1.txt
 
 this is new line
+
+
+some new text in origin
