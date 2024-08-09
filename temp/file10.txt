@@ -1,5 +1,7 @@
 this is file10.txt
 
+new feature added in origin
+
 bug fix in local
 
 this is new line
