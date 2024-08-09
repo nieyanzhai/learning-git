@@ -4,3 +4,5 @@ this is new line
 
 
 some new text in origin
+
+added in br-2
